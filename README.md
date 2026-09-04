@@ -98,7 +98,7 @@ Compare the individual models and hybrid approach using different performance me
 
 
 
-```markdown
+
 # Project Workflow
 
 The proposed system follows a hybrid learning pipeline that combines Machine Learning, Deep Learning, and Graph-based Learning models.
@@ -115,5 +115,5 @@ The proposed system follows a hybrid learning pipeline that combines Machine Lea
 ### Workflow
 
 **Data Collection → Preprocessing → Feature Extraction → ML / DL / GCN Models → Hybrid Ensemble → Fraud Prediction → Legitimate or Fraudulent User**
-```
+
 
