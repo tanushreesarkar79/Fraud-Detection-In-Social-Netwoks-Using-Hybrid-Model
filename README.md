@@ -86,21 +86,6 @@ Compare the individual models and hybrid approach using different performance me
 
 # Project Workflow
 
-| Stage | Machine Learning | Deep Learning | Graph Learning |
-|------|------------------|---------------|----------------|
-| **Input** | User & Activity Features | User & Text Features | User Network Relationships |
-| **Processing** | Data Preprocessing & Feature Extraction | Text Preprocessing & Feature Extraction | Graph Construction |
-| **Models** | Random Forest, XGBoost, SVM | CNN, LSTM | GCN |
-| **Prediction** | Fraud Probability | Fraud Probability | Fraud Probability |
-| **Combination** | &nbsp; | **Hybrid Ensemble** | &nbsp; |
-| **Final Output** | **Fraud Prediction** | **Fraud Prediction** | **Fraud Prediction** |
-| **Classification** | Legitimate / Fraudulent | Legitimate / Fraudulent | Legitimate / Fraudulent |
-
-
-
-
-# Project Workflow
-
 The proposed system follows a hybrid learning pipeline that combines Machine Learning, Deep Learning, and Graph-based Learning models.
 
 | Step | Machine Learning | Deep Learning | Graph Learning |
